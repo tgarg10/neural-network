@@ -1,0 +1,1 @@
+To understand the inner workings of a neural network, I created a neural network from scratch on Python. Although the code uses some neat Python features for ease of code, it can be adopted for virtually any language. 
